@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-10)
+
+<section class="features">
+
+### Features
+
+-   [`1040b76`](https://github.com/stdlib-js/stdlib/commit/1040b76eca609dd8557525b79be6903dcf8c607d) - add C implementation for `stats/base/dists/triangular/variance` [(#4000)](https://github.com/stdlib-js/stdlib/pull/4000)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3824](https://github.com/stdlib-js/stdlib/issues/3824)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1040b76`](https://github.com/stdlib-js/stdlib/commit/1040b76eca609dd8557525b79be6903dcf8c607d) - **feat:** add C implementation for `stats/base/dists/triangular/variance` [(#4000)](https://github.com/stdlib-js/stdlib/pull/4000) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
