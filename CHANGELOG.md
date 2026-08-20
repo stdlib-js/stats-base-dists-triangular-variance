@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-06)
+## Unreleased (2026-08-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e48a0d5`](https://github.com/stdlib-js/stdlib/commit/e48a0d5480b34bad29a0b418a20a1112c8d7af64) - **test:** migrate `stats/base/dists/triangular/variance` to ULP-based assertions [(#14425)](https://github.com/stdlib-js/stdlib/pull/14425) _(by Athan Reines)_
 -   [`ea63211`](https://github.com/stdlib-js/stdlib/commit/ea63211c94ab3e1504fd23279f1bd7b6b05d8987) - **docs:** fix incorrect return value in C usage section [(#10955)](https://github.com/stdlib-js/stdlib/pull/10955) _(by Om-A-osc)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Om-A-osc
 -   Philipp Burckhardt
 
